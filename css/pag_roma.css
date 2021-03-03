@@ -1,0 +1,61 @@
+
+body a h2{
+	color: white;
+	
+	font-size: 50px;
+}
+header nav ul {
+	text-align: center;
+	
+}
+
+header li{
+	
+	font-size: 17px
+}
+
+
+header li a{
+	
+	text-decoration: none; 
+	color: white;
+	
+}
+
+header {
+	background-color: black;
+	
+
+}
+
+body{
+	background-image: url(../imagens/fundo_noticia.jpg);
+
+}
+
+
+
+footer h2{
+	
+	font-size: 20px;
+	color: white;
+} 
+
+
+
+.cor{
+	background-color: #4682B4;
+}
+
+.hr_baixo{
+	background-color: white;
+}
+
+.div_branco{
+	background-color: white;
+
+}
+
+.top{
+	margin-top: 50px;
+}

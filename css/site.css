@@ -1,0 +1,192 @@
+
+body a h2 {
+	
+	font-size: 60px;
+}
+
+
+footer h2{
+	
+	font-size: 20px;
+}
+
+header nav ul {
+	text-align: center;
+	
+}
+
+header li{
+	
+	font-size: 20px;
+}
+
+
+header li a{
+	
+	text-decoration: none; 
+	color: white;
+	
+
+}
+
+.divisao{
+
+}
+
+header {
+	background-color: black;
+	
+	
+
+}
+
+body{
+	background-image: url(../imagens/principal_fundo.jpg);
+	background-size: cover;
+}
+
+footer h2{
+	color: white;
+}
+
+h2.topo{
+	color: white;
+}
+
+.noticias{
+
+display: block;
+margin: 0 auto;
+width: 50%;
+
+}
+
+
+
+a.geral{
+	vertical-align: middle;	
+	color: white;
+	background: black;
+}
+
+
+
+
+
+.parte_baixa{
+	margin-top: 10px;
+}
+
+.espaco{
+	margin-top: 10px;
+	
+}
+
+
+.hr_baixo{
+	background-color: white;
+}
+
+.foto_campeao{
+	width: 1000px;
+}
+
+.oi{
+	color: white;
+	font-size: 17px;
+}
+
+
+.teste{
+	display: inline-block;
+	position: relative;
+}
+
+.edicao-bayern{
+	position: absolute;
+	top: 70px;
+	left: 5px;
+	font-size: 20px;
+	color: white;
+	text-shadow: 0px 0px 10px black;
+}
+
+.edicao-roma{
+	position: absolute;
+	top: 100px;
+	left: 5px;
+	font-size: 20px;
+	color: white;
+	text-shadow: 0px 0px 10px black;
+}
+.edicao-salah{
+	position: absolute;
+	top: 85px;
+	left: 5px;
+	font-size: 20px;
+	color: white;
+	text-shadow: 0px 0px 10px black;
+}
+
+.edicao-campeao{
+	position: absolute;
+	top: 170px;
+	left: 5px;
+	font-size: 20px;
+	color: white;
+	text-shadow: 0px 0px 10px black;
+	
+}
+
+.edicao-karius{
+	position: absolute;
+	top: 90px;
+	left: 5px;
+	font-size: 20px;
+	color: white;
+	text-shadow: 0px 0px 10px black;
+	
+}
+
+
+.edicao-cristiano{
+	position: absolute;
+	top: 55px;
+	left: 5px;
+	font-size: 20px;
+	color: white;
+	text-shadow: 0px 0px 10px black;
+	
+}
+
+.edicao-comemoracao{
+	position: absolute;
+	top: 100px;
+	left: 5px;
+	font-size: 20px;
+	color: white;
+	text-shadow: 0px 0px 10px black;
+	
+}
+
+.borda{
+	border-radius: 15px;
+}
+
+.zoom{
+	overflow: hidden;
+}
+
+.zoom img{
+	max-width: 100%
+	 -ms-transition: all 0.3s;
+	 -webkit-transition: all 0.3s;
+	 transition: all 0.3;
+}
+
+.zoom:hover img{
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1)
+
+}
